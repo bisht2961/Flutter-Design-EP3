@@ -16,6 +16,6 @@ A few resources from were I took help.
 ### Home Screen
 ![Youtube Link](assets/images/1.PNG)
 
-### Details Scree
+### Details Screen
 ![Youtube Link](assets/images/2.PNG)
 
