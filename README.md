@@ -4,13 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for learning Flutter UI Design.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources from were I took help.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Youtube Link](https://youtu.be/LN668OAUrK4)
+- [Github Repo](https://github.com/abuanwar072/Plant-App-Flutter-UI)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+### Home Screen
+![Youtube Link](assets/images/1.PNG)
+
+### Details Scree
+![Youtube Link](assets/images/2.PNG)
+
